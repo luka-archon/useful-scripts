@@ -20,5 +20,3 @@ email="luka.mircetic+${name}@inflowinventory.com"
 
 # Copy to clipboard using pbcopy (macOS)
 echo -n "$email" | pbcopy
-
-echo "Copied $email to clipboard"
